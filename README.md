@@ -48,3 +48,8 @@ This was making the code rigid, and to be able to obey Open Close the changes ne
 ![](https://user-images.githubusercontent.com/9152392/44736541-e90ca780-aac5-11e8-98a6-85d5fe38d50a.png)
 
  ![](https://via.placeholder.com/1080x1132/B0E0E6/ffffff?text=And+that's+how+I+automated+the+imports+and+managed+to+leave+alone+the+engine+when+adding+new+functionalities+as+plugins.)
+
+
+ ![]("https://via.placeholder.com/1080x100/B0E0E6/ffffff?text=And+thats+how+I+automated+the+imports")
+ ![]("https://via.placeholder.com/1080x100/B0E0E6/ffffff?text=and+managed+to+leave+alone+the+engine")
+ ![]("https://via.placeholder.com/1080x100/B0E0E6/ffffff?text=+when+adding+new+functionalities+as+plugins.")
